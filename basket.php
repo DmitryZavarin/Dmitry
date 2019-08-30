@@ -37,6 +37,8 @@
 
 ?>
 
+<div>Корзина</div>
+
 <div class="basket">
 
         <?php foreach( $template['products'] as $products):?>
