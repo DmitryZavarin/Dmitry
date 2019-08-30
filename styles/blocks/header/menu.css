@@ -1,0 +1,11 @@
+.menu_margin {
+    margin: 0 40px;
+}
+
+.menu__link {
+    margin: 0 10px;
+}
+
+.menu__link_color-orange {
+    color: orange;
+}

@@ -1,0 +1,17 @@
+.icon-block_margin {
+    margin-left: 40px;
+}
+
+.icon-block__icon {
+    width: 24px;
+    height: 24px;
+    background: center center / contain no-repeat;
+}
+
+.icon-block__icon_human {
+    background-image: url(/images/icons/account.png);
+}
+
+.icon-block__icon_basket {
+    background-image: url(/images/icons/bascet.png);
+}
